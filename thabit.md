@@ -1,4 +1,4 @@
-# 🚀 LLM Parade API Generator - User Guide
+# 🚀 valleyair chat agent - User Guide
 
 ## 🌐 Access Your API Generator
 
